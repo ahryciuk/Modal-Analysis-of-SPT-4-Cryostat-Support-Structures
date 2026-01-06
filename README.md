@@ -33,6 +33,6 @@ Modal analysis of 300 Kelvin to 4 Kelvin G10 supports and the 4 Kelvin to 100 mi
 | Hexapod (carbon fiber) | 82 |
 
 
-## Files:
+## Analysis Files:
 - Harmonic_Analysis_of_SPT4_300K_4K_G10_Support_Structure.pdf
 - Harmonic_Analysis_of_SPT4_Ti_Focal_Plane_Support_Structure.pdf
