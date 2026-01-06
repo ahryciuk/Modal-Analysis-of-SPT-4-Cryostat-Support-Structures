@@ -8,7 +8,7 @@ G10 support structure
 
 Titanium (Ti 15-3-3-3) focal plane supports
 <p align="center">
-  <img src="final_subassembly_renders/G10Structure.png" width="500">
+  <img src="final_subassembly_renders/FocalPlaneSupports.png" width="500">
 </p>
 
 ## My Role:
