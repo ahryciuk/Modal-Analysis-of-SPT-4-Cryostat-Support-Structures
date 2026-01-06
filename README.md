@@ -13,7 +13,7 @@ Titanium (Ti 15-3-3-3) focal plane supports
 
 Callout from full design
 <p align="center">
-  <img src="final_subassembly_renders/FocalPlaneSupports.png" width="500">
+  <img src="final_subassembly_renders/Structural_supports_cryostat.PNG" width="500">
 </p>
 
 ## My Role:
