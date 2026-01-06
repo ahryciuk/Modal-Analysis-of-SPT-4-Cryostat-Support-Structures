@@ -1,6 +1,12 @@
 # Modal-Analysis-of-SPT-4-Cryostat-Support-Structures
 Modal analysis of 300 Kelvin to 4 Kelvin G10 supports and the 4 Kelvin to 100 milliKelvin Titanium focal plane supports
 
+G10 support structure
+![G10 support structure](blah)
+
+Titanium (Ti 15-3-3-3) focal plane supports
+![Titanium (Ti 15-3-3-3) focal plane supports](blah)
+
 ## My Role:
 - Led design and validation efforts
 - Defined design criteria with input from the Optics team (physical layout, materials, weight distribution, etc)
