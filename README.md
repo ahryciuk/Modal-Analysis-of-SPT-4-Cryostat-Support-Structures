@@ -13,8 +13,8 @@ Modal analysis of 300 Kelvin to 4 Kelvin G10 supports and the 4 Kelvin to 100 mi
 - 11 kg per optics tubes (7 total) with offset center of mass (5 kg detector module mounted on back)
 
 ## Summary of Results:
-- Hybrid G10 tab and bipod design limits thermal stress from differential thermal contraction and maintains good resonant frequency (~19 Hz)
-- Titanium hexapod design has the highest resonant frequency of focal plane supports (~144 Hz)
+- Hybrid G10 tab and bipod design limits thermal stress from differential thermal contraction and maintains good resonant frequency (19 Hz)
+- Titanium hexapod design has the highest resonant frequency of focal plane supports (144 Hz)
 
 ### G10 Supports (all of these mode shapes are in flexure)
 | Strut Shape | Base Frequency (Hz) |
