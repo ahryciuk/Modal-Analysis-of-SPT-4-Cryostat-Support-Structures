@@ -11,6 +11,11 @@ Titanium (Ti 15-3-3-3) focal plane supports
   <img src="final_subassembly_renders/FocalPlaneSupports.png" width="500">
 </p>
 
+Callout from full design
+<p align="center">
+  <img src="final_subassembly_renders/FocalPlaneSupports.png" width="500">
+</p>
+
 ## My Role:
 - Led design and validation efforts
 - Defined design criteria with input from the Optics team (physical layout, materials, weight distribution, etc)
