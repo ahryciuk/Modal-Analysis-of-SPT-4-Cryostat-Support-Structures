@@ -2,14 +2,14 @@
 Modal analysis of 300 Kelvin to 4 Kelvin G10 supports and the 4 Kelvin to 100 milliKelvin Titanium focal plane supports
 
 G10 support structure
-![G10 support structure](final_subassembly_renders/G10Structure.png)
-
 <p align="center">
-  <img src="final_subassembly_renders/G10Structure.png" width="400">
+  <img src="final_subassembly_renders/G10Structure.png" width="500">
 </p>
 
 Titanium (Ti 15-3-3-3) focal plane supports
-![Titanium (Ti 15-3-3-3) focal plane supports](blah)
+<p align="center">
+  <img src="final_subassembly_renders/G10Structure.png" width="500">
+</p>
 
 ## My Role:
 - Led design and validation efforts
