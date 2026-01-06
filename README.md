@@ -18,14 +18,14 @@ Modal analysis of 300 Kelvin to 4 Kelvin G10 supports and the 4 Kelvin to 100 mi
 
 ### G10 Supports (all of these mode shapes are in flexure)
 | Strut Shape | Base Frequency (Hz) |
-|------|:-------------:|
+|:------:|:-------------:|
 | Tab | 6.8 |
 | Bipod | 16.6 |
 | Cylinder | 20.3 |
 
 ### Titanium Supports (all of these mode shapes are in flexure)
 | Strut Shape | Base Frequency (Hz) |
-|------|:-------------:|
+|:------:|:-------------:|
 | Triangular | 72 |
 | "X" | 96 |
 | Hexapod | 144 |
