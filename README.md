@@ -51,3 +51,7 @@ Callout from full design
 ## Files:
 - Finite Element Analyses: /analysis_docs/
 - Final Design Renders: /final_subassembly_renders/
+
+## Bibliography:
+All figures from
+- Hryciuk, Alexander. 2025. “The SPT-3G Wide Survey Galaxy Cluster Catalog and the SPT-3G+ Cryostat Design.” University of Chicago. https://doi.org/10.6082/UCHICAGO.15844.
